@@ -1,5 +1,12 @@
 # Portfolio
 
+VozFeliz Student Portal:
+I developed a student portal for a vocal training coach's website. Using PHP, I created a 
+page that recognized who was currently signed in and if they are new, it creates a 
+directory for them. Then you can upload their files into their directory and they will be 
+displayed on their site. Also I helped fix the majority of the visual aspects of the 
+website.
+
 Suggest.java:
 This program is used to demonstrate a suggestion algoritm similar to how a music streaming 
 service suggests the next song to play based on the current song. For this demo, the songs
